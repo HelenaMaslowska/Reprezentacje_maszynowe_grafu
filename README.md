@@ -6,3 +6,6 @@ Przedstawione zostały 3 reprezentacje grafu:
 
 Opracowanie: 
 - [tutaj](https://github.com/HelenaMaslowska/Reprezentacje_maszynowe_grafu/blob/main/Reprezentacje%20maszynowe%20grafu.pdf)
+
+Program generujący dane
+- [tutaj](https://github.com/HelenaMaslowska/Reprezentacje_maszynowe_grafu/blob/main/Program_dane/generate_data.py)
